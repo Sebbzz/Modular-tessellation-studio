@@ -1,0 +1,11 @@
+# Processing generated outputs
+exportaciones/
+capturas/
+*.class
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
